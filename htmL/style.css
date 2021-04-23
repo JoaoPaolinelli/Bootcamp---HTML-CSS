@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(235, 235, 224);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    
+}
+#title, .subtitle, .title3{
+    color: rgb(100, 100, 255);
+   
+    
+}
+#title{
+    text-transform: uppercase;
+}
+a{
+    text-decoration:underline;
+    color: rgb(22, 26, 26);
+}
+.foto{
+    border: 1px solid rgb(195, 164, 164);
+    border-radius: 50%;
+}
+.title3{
+    
+    font-size: 16;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    
+}
+.post{
+    background-color: rgb(187, 160, 240);
+    padding: 15px;
+    border-bottom: 3px solid black;
+    border-radius: 5px 10px;
+    margin: 10px;
+}
+.postC{
+    border: 3px solid rgb(61, 61, 61);
+    margin: 0;
+    margin-bottom: 10px;
+    text-transform:lowercase;
+    text-align: justify;
+
+}
+.post-i{
+    margin-bottom: 20px;
+    width: 100%;
+}
+ul{
+    padding-left: 15px;
+}
+.lista{
+    padding-left: 20px;
+    list-style-type: none;
+}
+.lista, li, a{
+    color:brown;
+}
